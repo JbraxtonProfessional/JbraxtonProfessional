@@ -53,7 +53,7 @@ Post-quantum blockchain protocol: Proof-of-Stake consensus with ML-DSA-65 signat
 ### Quantech
 
 **QUDA (Quantum Unified Device Architecture)** · [github.com/JbraxtonProfessional/quantech-quda-sdk](https://github.com/JbraxtonProfessional/quantech-quda-sdk)
-Hardware-agnostic quantum programming SDK for Python. Write a circuit once and run it on any backend — simulator, IBM, Google, or IonQ — through a hardware abstraction layer, with integration points for Enclave post-quantum security and telemetry.
+Hardware-agnostic quantum programming SDK for Python. Write a circuit once and run it on any backend — simulator, IBM, Google, or IonQ — through a hardware abstraction layer, with planned integration points for other applications.
 `Python` `Quantum Computing` `HAL` · *public repo*
 
 ---
