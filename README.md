@@ -36,15 +36,9 @@ Zero-knowledge identity verification with open API access.
 
 ---
 
-**enclave-pqc-primitives** · [github.com/Enclave-Inc/enclave-pqc-primitives](https://github.com/Enclave-Inc/enclave-pqc-primitives)
+**enclave-pqc-primitives** · [github.com/Enclave-Inc/enclave-pqc-primitives](https://github.com/Enclave-Technologies-Inc/enclave-pqc-primitives)
 Cryptographic core, built in Rust. NIST Category 5 — ML-KEM-1024 and ML-DSA-87 — with Argon2id for password-based key derivation. Built on audited crates (pqcrypto, RustCrypto), Apache 2.0 licensed.
 `Rust` `ML-KEM-1024` `ML-DSA-87` `Argon2id` · *public repo*
-
----
-
-**enclave-messaging-sdk** · `Enclave-Encrypt` · [github.com/Enclave-Encrypt/enclave-messaging-sdk](https://github.com/Enclave-Encrypt/enclave-messaging-sdk)
-Client-side MLS Protocol SDK for React Native. Implements RFC 9420 — TreeKEM ratcheting tree, HPKE key encapsulation, AEAD message encryption. Zero plaintext ever reaches the server.
-`MLS Protocol` `RFC 9420` `React Native` `TreeKEM` `HPKE` `AEAD` · *public repo*
 
 ---
 
